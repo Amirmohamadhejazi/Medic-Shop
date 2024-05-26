@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebthinfanum.woff');
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebthinfanum.woff');
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanweblightfanum.woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebregularfanum.woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebmediumfanum.woff');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebboldfanum.woff');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebextraboldfanum.woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebblackfanum.woff');
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'iran-yekan';
+    src: url('../../../public/fonts/iranyekanwebextrablackfanum.woff');
+    font-weight: 900;
+}
