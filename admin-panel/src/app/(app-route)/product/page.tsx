@@ -1,5 +1,7 @@
+import { ProductTemplate } from '@templates/ProductTemplate'
+
 const page = () => {
-    return <div>محصولات</div>
+    return <ProductTemplate />
 }
 
 export default page

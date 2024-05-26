@@ -1,7 +1,7 @@
-import React from 'react'
+import { DashboardTemplate } from '@templates/DashboardTemplate'
 
 const page = () => {
-    return <div className='  flex flex-col  '>داشبورد</div>
+    return <DashboardTemplate />
 }
 
 export default page
