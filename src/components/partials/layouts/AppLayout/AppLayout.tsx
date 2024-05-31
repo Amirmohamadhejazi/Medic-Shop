@@ -36,16 +36,12 @@ const DAppLayout: FC<PropsWithChildren> = ({ children }) => {
             </AppShell.Header>
             <AppShell.Navbar w={{ base: 250, lg: 300 }} className='border-0'>
                 <div className={`size-full ${smMediaQuery ? ' p-2' : ' pr-2 py-2'}`}>
-                    <div className='size-full  bg-white border-[0.3px] border-gray-200 shadow-md rounded-md overflow-auto'>
-                        <Sidebar />
-                    </div>
+                    <Sidebar />
                 </div>
             </AppShell.Navbar>
             <AppShell.Main>
                 <div className=' p-2'>
-                    <div className=' p-2 bg-white border-[0.3px] border-gray-200 shadow-md rounded-md overflow-auto'>
-                        {children}
-                    </div>
+                    <div className='p-2 rounded-md overflow-auto'>{children}</div>
                 </div>
             </AppShell.Main>
         </AppShell>
